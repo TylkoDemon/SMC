@@ -297,3 +297,16 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# SMC
+launcher_build/
+launchersu_build/
+gfx/
+workspace/
+src/SMC/packages/
+src/SMC/SMC.Launcher/obj/
+src/SMC/SMC.Launcher/bin/
+src/SMC/SMC.MC/obj/
+src/SMC/SMC.MC/bin/
+src/SMC/SMC.SULauncher/obj/
+src/SMC/SMC.SULauncher/bin/
