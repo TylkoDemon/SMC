@@ -301,6 +301,7 @@ __pycache__/
 # SMC
 launcher_build/
 launchersu_build/
+minecraft_build/
 gfx/
 workspace/
 src/SMC/packages/
