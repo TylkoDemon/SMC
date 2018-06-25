@@ -4,18 +4,18 @@
 // Copyright (c) 2018 ADAM MAJCHEREK ALL RIGHTS RESERVED
 //
 
-using System;
-using System.Diagnostics;
-using System.Drawing;
-using System.IO;
-using System.Threading;
-using System.Windows.Forms;
 using CefSharp;
 using CefSharp.WinForms;
 using JEM.Core;
 using JEM.Downloader;
 using SMC.Launcher.Scripts;
 using SMC.Launcher.Scripts.Handlers;
+using System;
+using System.Diagnostics;
+using System.Drawing;
+using System.IO;
+using System.Threading;
+using System.Windows.Forms;
 
 namespace SMC.Launcher
 {
@@ -69,7 +69,7 @@ namespace SMC.Launcher
             {
                 Dock = DockStyle.Fill,
                 BackColor = ColorTranslator.FromHtml("#212121")
-        };
+            };
 
             // register js handlers
             CefSharpSettings.LegacyJavascriptBindingEnabled = true;

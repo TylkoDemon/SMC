@@ -4,10 +4,10 @@
 // Copyright (c) 2018 ADAM MAJCHEREK ALL RIGHTS RESERVED
 //
 
-using System;
-using System.IO;
 using JEM.Core;
 using Newtonsoft.Json;
+using System;
+using System.IO;
 
 namespace SMC.Launcher
 {

@@ -4,11 +4,11 @@
 // Copyright (c) 2018 ADAM MAJCHEREK ALL RIGHTS RESERVED
 //
 
+using JEM.Core;
+using JEM.Downloader;
 using System;
 using System.Diagnostics;
 using System.Windows.Forms;
-using JEM.Core;
-using JEM.Downloader;
 
 namespace SMC.SULauncher
 {
